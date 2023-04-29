@@ -7,9 +7,9 @@ Not a scientific test, I am only running this on my own hardware and not using a
 
 ## Method
 
-Create a rock-paper-scissors implementation using different languages.
-Run the server on my local machine (one at a time).
-Use [hey](https://github.com/rakyll/hey) to benchmark.
+- Create a rock-paper-scissors implementation using different languages.
+- Run the server on my local machine (one at a time).
+- Use [hey](https://github.com/rakyll/hey) to benchmark.
 
 Tested using 100000 requests (fixed)
 and varied the number of concurrent requests each server could handle:
