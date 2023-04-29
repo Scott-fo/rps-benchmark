@@ -12,7 +12,7 @@ Also practicing DDD to improve my code quality.
 - Run the server on my local machine (one at a time).
 - Use [hey](https://github.com/rakyll/hey) to benchmark.
 
-Tested using 100000 requests (fixed)
+Tested using 1000000 (1 million) requests (fixed)
 and varied the number of concurrent requests each server could handle:
 
 - 100
