@@ -26,3 +26,4 @@ Go is the easiest to build a high performance server for due to the nature of go
 
 For my nodejs server, I have used the cluster package to make a http server that will take advantage of the multiple processors available. This should help my nodejs server to be able to compete with my rust and go implementations rather than leaving it to compete only with a single thread.
 
+My rust server uses actix_web which supports multithreading out of the box.
