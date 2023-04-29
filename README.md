@@ -18,7 +18,6 @@ and varied the number of concurrent requests each server could handle:
 - 100
 - 1000
 - 10000
-- 100000
 
 ## Code design
 
