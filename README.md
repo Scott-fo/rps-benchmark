@@ -3,7 +3,8 @@
 ## Explanation
 
 Just playing around comparing typescript, rust, and go servers with a simple rock-paper-scissors game.
-Not a scientific test, I am only running this on my own hardware and not using a designated server to test in same conditions.
+Not a scientific test, I am only running this on my own hardware and not using a designated server to test in same conditions. 
+Also practicing DDD to improve my code quality.
 
 ## Method
 
